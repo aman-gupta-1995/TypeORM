@@ -3,7 +3,7 @@
     <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" width="492" height="228">
   </a>
   <br> 
-  <br>  
+  <br> 
 	<a href="https://app.circleci.com/pipelines/github/typeorm/typeorm">
 		<img src="https://circleci.com/gh/typeorm/typeorm/tree/master.svg?style=shield">
 	</a>

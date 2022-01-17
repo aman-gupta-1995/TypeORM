@@ -14,7 +14,7 @@
 		<img src="https://david-dm.org/typeorm/typeorm.svg">
 	</a>
     <a href="https://codecov.io/gh/typeorm/typeorm">
-        <img alt="Codecov" src="https://img.shields.io/codecov/c/github/typeorm/typeorm.svg">
+        <img alt="Codecov" src="https://img.shields.io/codecov/c/github/typeorm/typeorm.svg"> 
     </a>
 	<a href="https://join.slack.com/t/typeorm/shared_invite/zt-gej3gc00-hR~L~DqGUJ7qOpGy4SSq3g">
 		<img src="https://img.shields.io/badge/chat-on%20slack-blue.svg">

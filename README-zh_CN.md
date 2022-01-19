@@ -284,7 +284,7 @@ $ npm install
 
 绝大多数情况下，你只需要配置 `host`, `username`, `password`, `database` 或者 `port` 即可。
 
-完成配置并安装所有 node modules 后，即可运行应用程序：
+完成配置并安装所有 node modules 后，即可运行应用程序： 
 
 ```sh
 $ npm start

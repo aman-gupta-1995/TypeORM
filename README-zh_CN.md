@@ -9,7 +9,7 @@
 	</a>
 	<a href="https://badge.fury.io/js/typeorm">
 		<img src="https://badge.fury.io/js/typeorm.svg">
-	</a>
+	</a> 
 	<a href="https://david-dm.org/typeorm/typeorm">
 		<img src="https://david-dm.org/typeorm/typeorm.svg">
 	</a>

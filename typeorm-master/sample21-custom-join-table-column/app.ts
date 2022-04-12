@@ -4,7 +4,7 @@ import {Post} from "./entity/Post";
 import {Author} from "./entity/Author";
 import {Category} from "./entity/Category";
 
-const options: ConnectionOptions = {
+const options: ConnectionOptions = { 
     type: "mysql",
     host: "localhost",
     port: 3306,

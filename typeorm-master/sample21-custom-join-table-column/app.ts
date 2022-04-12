@@ -5,7 +5,7 @@ import {Author} from "./entity/Author";
 import {Category} from "./entity/Category";
 
 const options: ConnectionOptions = { 
-    type: "mysql",
+    type: "mysql", 
     host: "localhost",
     port: 3306,
     username: "root",

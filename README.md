@@ -4,7 +4,7 @@
   </a>
   <br>
   <br> 
-	<a href="https://app.circleci.com/pipelines/github/typeorm/typeorm">
+	<a href="https://app.circleci.com/pipelines/github/typeorm/typeorm"> 
 		<img src="https://circleci.com/gh/typeorm/typeorm/tree/master.svg?style=shield">
 	</a>
 	<a href="https://badge.fury.io/js/typeorm">

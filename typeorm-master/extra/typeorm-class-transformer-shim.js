@@ -7,7 +7,7 @@
 // for system.js this resolved this way:
 // System.config({
 //     ... 
-//     packages: {   
+//     packages: {    
 //         "typeorm": {   
 //             main: "typeorm-class-transformer-shim.js",   
 //             defaultExtension: "js" 

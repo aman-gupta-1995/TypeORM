@@ -5,7 +5,7 @@
 // to use this shim simply configure your systemjs/webpack configuration to use this file instead of typeorm module.
 
 // for system.js this resolved this way:
-// System.config({
+// System.config({ 
 //     ... 
 //     packages: {    
 //         "typeorm": {     

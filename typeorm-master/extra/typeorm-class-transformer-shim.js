@@ -6,7 +6,7 @@
 
 // for system.js this resolved this way:
 // System.config({
-//     ...
+//     ... 
 //     packages: {
 //         "typeorm": {
 //             main: "typeorm-class-transformer-shim.js",

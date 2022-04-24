@@ -10,7 +10,7 @@
 //     packages: {    
 //         "typeorm": {   
 //             main: "typeorm-class-transformer-shim.js",   
-//             defaultExtension: "js"  
+//             defaultExtension: "js"   
 //         }  
 //     }
 // }

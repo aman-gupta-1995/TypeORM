@@ -8,7 +8,7 @@ const options: ConnectionOptions = {
     port: 3306,
     username: "root",
     password: "admin",
-    database: "test",
+    database: "test", 
     logging: ["query", "error"],
     synchronize: true,
     entities: [Category]

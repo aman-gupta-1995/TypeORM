@@ -26,7 +26,7 @@ createConnection(options).then(connection => {
 
     let childCategory1 = new Category();
     childCategory1.name = "Child #1 of Category #1";
-    childCategory1.childCategories = [childChildCategory1];
+    childCategory1.childCategories = [childChildCategory1]; 
 
     let childCategory2 = new Category();
     childCategory2.name = "Child #2 of Category #1";

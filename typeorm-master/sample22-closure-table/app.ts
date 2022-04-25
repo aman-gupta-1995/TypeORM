@@ -9,7 +9,7 @@ const options: ConnectionOptions = {
     username: "root",
     password: "admin",
     database: "test", 
-    logging: ["query", "error"],
+    logging: ["query", "error"], 
     synchronize: true,
     entities: [Category]
 };

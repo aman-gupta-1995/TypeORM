@@ -7,7 +7,7 @@ const options: ConnectionOptions = {
     host: "localhost",   
     port: 3306,    
     username: "root",       
-    password: "admin",  
+    password: "admin",   
     database: "test", 
     logging: ["query", "error"], 
     synchronize: true,

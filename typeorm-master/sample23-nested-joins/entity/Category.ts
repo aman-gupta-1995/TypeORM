@@ -3,7 +3,7 @@ import {Author} from "./Author";
 import {ManyToMany} from "../../../src/decorator/relations/ManyToMany";
 import {JoinTable} from "../../../src/decorator/relations/JoinTable";
 
-@Entity("sample23_category")  
+@Entity("sample23_category")   
 export class Category { 
 
     @PrimaryGeneratedColumn()

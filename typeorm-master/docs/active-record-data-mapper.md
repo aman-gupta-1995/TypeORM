@@ -27,7 +27,7 @@ export class User extends BaseEntity {
     @Column()
     firstName: string;
     
-    @Column()
+    @Column() 
     lastName: string;
     
     @Column()

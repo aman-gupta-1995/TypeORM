@@ -6,7 +6,7 @@ services:
   #  container_name: "typeorm-mysql-5.5" 
   #  ports:
   #    - "3306:3306" 
-  #  environment:
+  #  environment: 
   #    MYSQL_ROOT_PASSWORD: "admin"
   #    MYSQL_USER: "test"
   #    MYSQL_PASSWORD: "test"

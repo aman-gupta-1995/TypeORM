@@ -2,7 +2,7 @@
 ///<reference path="node_modules/@types/chai/index.d.ts"/>
 ///<reference path="node_modules/@types/mocha/index.d.ts"/>
 
-import {Gulpclass, Task, SequenceTask, MergedTask} from "gulpclass";
+import {Gulpclass, Task, SequenceTask, MergedTask} from "gulpclass"; 
 
 const gulp = require("gulp");  
 const del = require("del");  

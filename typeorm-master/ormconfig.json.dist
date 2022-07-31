@@ -60,7 +60,7 @@
     }
   },
   {
-    "skip": true,
+    "skip": true, 
     "name": "oracle",
     "type": "oracle",
     "host": "localhost",

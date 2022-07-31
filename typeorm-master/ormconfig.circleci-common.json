@@ -3,7 +3,7 @@
     "skip": true,
     "name": "mysql",
     "type": "mysql",
-    "host": "typeorm-mysql",
+    "host": "typeorm-mysql", 
     "port": 3306,
     "username": "root",
     "password": "admin",

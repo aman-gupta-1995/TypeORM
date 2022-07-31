@@ -5,7 +5,7 @@ This document describes how to set up your development environment and run TypeO
 * [Prerequisite Software](#prerequisite-software)
 * [Getting the Sources](#getting-the-sources)
 * [Installing NPM Modules](#installing-npm-modules)
-* [Building](#building)
+* [Building](#building) 
 * [Running Tests Locally](#running-tests-locally)
 
 See the [contribution guidelines](https://github.com/typeorm/typeorm/blob/master/CONTRIBUTING.md)

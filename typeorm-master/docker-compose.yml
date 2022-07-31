@@ -1,5 +1,5 @@
 version: "3"
-services:
+services: 
   # mysql-5.5 
   #mysql5.5:
   #  image: "mysql:5.5" 

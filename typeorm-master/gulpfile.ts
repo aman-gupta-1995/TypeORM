@@ -29,7 +29,7 @@ export class Gulpfile {
      * Creates a delay and resolves after 15 seconds.
      */
     @Task()
-    wait(cb: Function) {
+    wait(cb: Function) { 
         setTimeout(() => cb(), 15000);
     }
 

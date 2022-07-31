@@ -24,7 +24,7 @@ services:
       MYSQL_PASSWORD: "test"
       MYSQL_DATABASE: "test"
 
-  # mariadb
+  # mariadb 
   mariadb:
     image: "mariadb:10.4.8"
     container_name: "typeorm-mariadb"

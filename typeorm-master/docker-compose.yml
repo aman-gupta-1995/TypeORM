@@ -3,7 +3,7 @@ services:
   # mysql-5.5
   #mysql5.5:
   #  image: "mysql:5.5"
-  #  container_name: "typeorm-mysql-5.5"
+  #  container_name: "typeorm-mysql-5.5" 
   #  ports:
   #    - "3306:3306"
   #  environment:

@@ -5,7 +5,7 @@
 import {Gulpclass, Task, SequenceTask, MergedTask} from "gulpclass";
 
 const gulp = require("gulp");  
-const del = require("del"); 
+const del = require("del");  
 const shell = require("gulp-shell");
 const replace = require("gulp-replace"); 
 const rename = require("gulp-rename");

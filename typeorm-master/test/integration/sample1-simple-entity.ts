@@ -5,7 +5,7 @@ import {Post} from "../../sample/sample1-simple-entity/entity/Post";
 import {closeTestingConnections, createTestingConnections, reloadTestingDatabases} from "../utils/test-utils";   
    
 describe("insertion", function() { 
- 
+  
     // -------------------------------------------------------------------------
     // Setup
     // ------------------------------------------------------------------------- 

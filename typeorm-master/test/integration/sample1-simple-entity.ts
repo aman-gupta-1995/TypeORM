@@ -27,7 +27,7 @@ describe("insertion", function() {
         let newPost = new Post();
         newPost.text = "Hello post";
         newPost.title = "this is post title";
-        newPost.likesCount = 0;
+        newPost.likesCount = 0; 
         const savedPost = await postRepository.save(newPost);
 
         savedPost.should.be.equal(newPost);

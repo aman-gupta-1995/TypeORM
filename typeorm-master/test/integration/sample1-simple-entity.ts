@@ -1,4 +1,4 @@
-import "reflect-metadata"; 
+import "reflect-metadata";  
 import {expect} from "chai";     
 import {Connection} from "../../src/connection/Connection";              
 import {Post} from "../../sample/sample1-simple-entity/entity/Post"; 

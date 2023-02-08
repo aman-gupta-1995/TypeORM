@@ -23,7 +23,7 @@
     },
     "include": [
       "sample",
-      "src",
+      "src", 
       "test" 
     ],
     "exclude": [ 

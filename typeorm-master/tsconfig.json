@@ -26,7 +26,7 @@
       "src",
       "test" 
     ],
-    "exclude": [
+    "exclude": [ 
         "tmp",
         "temp",
         "build",

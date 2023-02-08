@@ -29,7 +29,7 @@
     "exclude": [ 
         "tmp",
         "temp",
-        "build",
+        "build", 
         "node_modules"
     ] 
 }

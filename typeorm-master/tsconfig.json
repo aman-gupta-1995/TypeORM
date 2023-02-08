@@ -27,7 +27,7 @@
       "test" 
     ],
     "exclude": [ 
-        "tmp",
+        "tmp", 
         "temp",
         "build",  
         "node_modules" 

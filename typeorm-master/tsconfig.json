@@ -8,7 +8,7 @@
         "module": "commonjs",          
         "moduleResolution": "node",    
         "importHelpers": true, 
-        "emitDecoratorMetadata": true,
+        "emitDecoratorMetadata": true, 
         "experimentalDecorators": true,  
         "sourceMap": true,
         "noImplicitAny": true,

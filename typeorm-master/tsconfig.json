@@ -4,7 +4,7 @@
         "outDir": "build/compiled",
         "allowSyntheticDefaultImports": true, 
         "esModuleInterop": true,       
-        "target": "es5",              
+        "target": "es5",               
         "module": "commonjs",             
         "moduleResolution": "node",    
         "importHelpers": true, 
@@ -19,7 +19,7 @@
         "pretty": true,
         "strictNullChecks": true,
         "noUnusedLocals": true,
-        "downlevelIteration": true
+        "downlevelIteration": true 
     },
     "include": [
       "sample",
